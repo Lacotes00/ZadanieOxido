@@ -2,7 +2,7 @@ import openai
 import os
 
 # Ustawienie klucza API
-openai.api_key = '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'
+openai.api_key = 'Trzeba dodać klucz'
 
 def read_article(file_path):
     # Odczytanie treści artykułu z pliku
